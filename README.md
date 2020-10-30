@@ -1,2 +1,2 @@
-# curso-django-alura
+# django-alura
 Curso sobre DJANGO da ALURA
